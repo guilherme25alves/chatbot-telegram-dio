@@ -1,0 +1,24 @@
+{
+  "name": "chatbot-telegram-dio",
+  "version": "1.0.0",
+  "description": "Chatbot Fitness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherme25alves/chatbot-telegram-dio.git"
+  },
+  "author": "Guilherme Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilherme25alves/chatbot-telegram-dio/issues"
+  },
+  "homepage": "https://github.com/guilherme25alves/chatbot-telegram-dio#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "youtube-node": "^1.3.3"
+  }
+}
